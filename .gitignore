@@ -360,3 +360,7 @@ chernovikL4/
 Level1/Lesson1/
 
 Level1/Lesson4/
+
+*.csproj
+
+*.sln
